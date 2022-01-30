@@ -1,0 +1,119 @@
+
+body{
+
+  font-family:'Space Grotesk';
+  font-size: 13pt;
+    color:#362222;
+      text-align: justify;
+
+}
+
+
+.avt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Space Grotesk',sans-serif;
+
+}
+
+.avt-item{
+  flex-wrap: wrap;
+  margin: 10px;
+  font-family: 'Space Grotesk',sans-serif;
+  font-weight:400;
+  font-size: 20px;
+  width: 40%;
+}
+
+.kt{
+ text-align: justify;
+ padding: 0 15px ;
+}
+.kt2{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+
+}
+.pdkt{
+   font-size: 13px;
+   background:white ;
+   padding: 10px;
+   margin: 10px;
+   color:gray;
+
+}
+hr{
+  width: 40%;
+  background: #97BFB4;
+  border: none;
+  height: 1px;
+}
+h4{
+  background-color: #F0BB62;
+  margin:0;
+  padding:5px;
+  color:black;
+
+}
+.ct{
+  margin: auto;
+  width: 70%;
+  background-color: #F7F6F2;
+}
+.doanvan{
+  margin: 10px;
+
+}
+.one{
+display: flex;
+width:3600px;
+background-image: url("../image/hoa.png");
+background-size:500px 300px;
+background-repeat: repeat-x;
+background-position: bottom;
+background-origin: content-box;
+}
+.mot{
+  width: 400px;
+
+  color:white;
+  margin: 5px;
+}
+.mot1{
+  background-color:#519259;
+}
+.mot2{
+  background-color: #DD4A48;
+}
+.mot3{
+  background-color: #FFDF91;
+  color:black;
+}
+.mot4{
+  background-color:#FFF8C1;
+  color: black;
+}
+.hai{
+  width:400px;
+  background-color:#87AAAA;
+margin: 5px;
+}
+
+img{
+
+}
+p{
+  text-align: center;
+
+
+}
+a
+{
+  margin-left : 20px;
+}
+.fontsize{
+  font-size: 20px;
+}
