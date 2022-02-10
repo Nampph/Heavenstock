@@ -131,3 +131,8 @@ a
     opacity: 0.9;
     background: #FFF8C1;
 }
+
+.float{
+  float: left;
+  padding-right: 30px;
+}
